@@ -16,6 +16,7 @@
 
 ----------------------
 ### job-project [할 일 관리 앱] 📲
+![image](https://github.com/user-attachments/assets/5695534c-d83d-4259-b4bc-7e8e825766e6)
 
 #### ✔프로젝트 정리사항
 - UI 구현하기
