@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Lumos';
+    src: url('/fonts/lumos.ttf') format('truetype'); /* 폰트 파일 경로 */
+  }
+
+.body {
+    background-color: #F5E6CC;
+    color: #0D3B26;
+    /* font-family: 'Lumos', serif; */
+    
+}
